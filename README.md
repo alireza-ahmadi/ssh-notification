@@ -4,7 +4,7 @@ Recieve [Pushover](http://pushover.net) notification when someone SSH login on y
 
 #Usage
     cd ~
-    git clone https://github.com/alireza-ahmadi/ssh-notification.git
+    git clone https://github.com/alireza-ahmadi/ssh-notification.git .
     vim login
 You should edit **user** and **token** variables in *login* file, after that, save file and change *login* file permissions.
 
